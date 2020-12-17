@@ -2,20 +2,20 @@
 # & pkg update
 # & pkg upgrade
 # 3 
-4 pkg install python
+# pkg install python
 5
-pkg install python2
+# pkg install python2
 6
-7 pip2 install requests
-8 pip2 install mechanize
-9 pkg install git
+# pip2 install requests
+# pip2 install mechanize
+# pkg install git
 
-10 git clone https//:github.com/Azhar/balochi
+# git clone https//:github.com/Azhar/balochi
 
-11 cd balochi
+# cd balochi
 
-12 python2 balochi.py
+# python2 balochi.py
 
-user .. AZHAR
-Pass...BALOCH
+
+
 
