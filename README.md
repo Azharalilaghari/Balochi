@@ -10,7 +10,7 @@
 # pip2 install mechanize
 # pkg install git
 
-# git clone https//:github.com/Azhar/balochi
+# git clone https//:github.com/Azharalilaghari/balochi
 
 # cd balochi
 
